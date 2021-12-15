@@ -30,8 +30,8 @@ Your job is to
     - 2.1. Any push to the `main` branch should deploy the application.
     - 2.2. We recommend using GitHub Actions.
 3. Deploy container to AWS
-    - The deployed application should be accessible via the internet.
-    - 3.1. We recommend using AWS CloudFormation or AWS CDK.
+    - 3.1. The deployed application should be accessible via the internet.
+    - 3.2. We recommend using AWS CloudFormation or AWS CDK.
 
 ## Bonus tasks
 
